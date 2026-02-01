@@ -1,0 +1,11 @@
+{
+  "llm_type": "DistilBERT (Real LLM)",
+  "llm_accuracy": 0.86875,
+  "llm_model_path": "./simple_llm_model",
+  "trained_on": "op_spam_v1.4 (1600 samples)",
+  "training_samples": 1280,
+  "test_samples": 320,
+  "status": "ready_for_hybrid",
+  "accuracy_target": 0.85,
+  "accuracy_met": true
+}

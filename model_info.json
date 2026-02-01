@@ -1,0 +1,16 @@
+{
+  "model_name": "Logistic Regression",
+  "accuracy": 0.8906,
+  "ml_accuracy": 0.8906,
+  "cv_mean": 0.8836,
+  "cv_std": 0.0233,
+  "max_features": 5000,
+  "ngram_range": "(1, 2)",
+  "preprocessing": "enhanced_with_pattern_detection",
+  "role": "ML component in 70/30 hybrid system",
+  "weight": "70%",
+  "features_used": "enhanced_tfidf_vectorizer + pattern_detection",
+  "training_samples": 1280,
+  "test_samples": 320,
+  "dataset": "op_spam_v1.4"
+}
